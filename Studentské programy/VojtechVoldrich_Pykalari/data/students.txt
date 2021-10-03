@@ -1,0 +1,52 @@
+﻿Number|GivenName|Surname|Gender|Age|Birthday|CountryFull|StateFull|City|StreetAddress|EmailAddress|TelephoneNumber
+1|Eva|Cinková|žena|5/19/2003|Česká republika|Jihomoravský kraj|Lipuvka|Na Loučkách 361|EvaCinkova@gustr.com|730 088 707
+2|Jaroslav|Čapek|muž|6/20/2004|Česká republika|Moravskoslezský kraj|Slatinice|Sokolská 424|JaroslavCapek@jourrapide.com|588 636 025
+3|Markéta|Zoulová|žena|11/11/2002|Česká republika|Královéhradecký kraj|Rokytnice v Orlických horách|Erbenova 955|MarketaZoulova@teleworm.us|727 295 928
+4|Vít|Štěpánek|muž|12/30/2002|Česká republika|Jihomoravský kraj|Pohorelice|Družstevní 1990|VitStepanek@dayrep.com|541 801 939
+5|Jitka|Exnerová|žena|8/22/2003|Česká republika|Plzenský kraj|Nové Mitrovice|Nábřežní 39|JitkaExnerova@einrot.com|376 338 140
+6|Zdeněk|Miko|muž|10/30/2002|Česká republika|Karlovarský kraj|Karlovy Vary 1|Tylova 1356|ZdenekMiko@gustr.com|779 762 382
+7|Vladimír|Hrabec|muž|7/31/2003|Česká republika|Jihomoravský kraj|Novosedly na Morave|Úzká 406|VladimirHrabec@gustr.com|515 348 922
+8|Ivan|Vlk|muž|7/6/2005|Česká republika|Kraj Vysocina|Kouty u Trebíce|Zahradní 4|IvanVlk@fleckens.hu|734 495 232
+9|Jaroslava|Straková|žena|10/17/2002|Česká republika|Jihomoravský kraj|Vyškov 1|Partyzánská 380|JaroslavaStrakova@jourrapide.com|540 414 784
+10|Petr|Lapáček|muž|7/15/2005|Česká republika|Jihoceský kraj|Tábor 2|Stožická 262|PetrLapacek@einrot.com|397 163 142
+11|Halyna|Reslová|žena|8/9/2004|Česká republika|Stredoceský kraj|Kosmonosy|Fügnerova 558|HalynaReslova@jourrapide.com|722 841 645
+12|Pavla|Helešicová|žena|1/3/2005|Česká republika|Karlovarský kraj|Kraslice|Tylova 514|PavlaHelesicova@superrito.com|734 523 607
+13|Martin|Reiter|muž|4/23/2003|Česká republika|Královéhradecký kraj|Chlumec nad Cidlinou|Družstevní práce 740|MartinReiter@jourrapide.com|494 373 220
+14|Josef|Kubáč|muž|9/15/2004|Česká republika|Plzenský kraj|Horaždovice|Tyršova 636|JosefKubac@teleworm.us|370 902 491
+15|Pavel|Riedl|muž|6/19/2004|Česká republika|Kraj Vysocina|Dalecín|Mírová 1637|PavelRiedl@rhyta.com|607 849 778
+16|Dana|Varmužová|žena|4/10/2003|Česká republika|Stredoceský kraj|Katusice|Poštovní 705|DanaVarmuzova@superrito.com|724 748 598
+17|Hana|Velková|žena|6/14/2003|Česká republika|Zlínský kraj|Uherské Hradište 1|Větrná 845|HanaVelkova@teleworm.us|735 503 017
+18|Vojtěch|Dvořák|muž|10/10/2003|Česká republika|Pardubický kraj|Litomyšl|Lidická 533|VojtechDvorak@rhyta.com|461 253 645
+19|Anna|Gálová|žena|10/14/2004|Česká republika|Stredoceský kraj|Predmerice nad Jizerou|Jiráskova 1818|AnnaGalova@rhyta.com|721 458 123
+20|Tomáš|Vávra|muž|12/5/2003|Česká republika|Královéhradecký kraj|Chlumec nad Cidlinou|Družstevní práce 1740|TomasVavra@einrot.com|497 681 072
+21|Nikol|Svobodová|žena|1/14/2003|Česká republika|Královéhradecký kraj|Trebechovice pod Orebem|Družstevní práce 1963|NikolSvobodova@jourrapide.com|776 190 959
+22|Břetislav|Tokár|muž|1/7/2004|Česká republika|Stredoceský kraj|Brezno u Mladé Boleslave|Poštovní 538|BretislavTokar@rhyta.com|730 677 299
+23|Emilie|Opatřilová|žena|12/22/2003|Česká republika|Jihoceský kraj|Jindrichuv Hradec 1|Jindřichova 141|EmilieOpatrilova@armyspy.com|396 105 860
+24|Marta|Čejková|žena|7/19/2004|Česká republika|Hlavní mesto Praha|Byšice|Nová 1365|MartaCejkova@rhyta.com|778 622 559
+25|Marie|Němcová|žena|12/17/2004|Česká republika|Královéhradecký kraj|Hronov 1|Větrník 747|MarieNemcova@einrot.com|776 607 431
+26|Nikola|Krejsová|žena|1/15/2003|Česká republika|Kraj Vysocina|Trebíc 1|Dobrovského 1007|NikolaKrejsova@cuvox.de|567 135 939
+27|Irena|Bradáčová|žena|7/28/2004|Česká republika|Kraj Vysocina|Križanov|Generála Jaroše 1044|IrenaBradacova@armyspy.com|726 393 493
+28|František|Beneš|muž|3/27/2003|Česká republika|Jihomoravský kraj|Dyjákovice|Lomená 1466|FrantisekBenes@einrot.com|542 085 314
+29|Ludmila|Kubánková|žena|8/19/2005|Česká republika|Jihoceský kraj|Ceský Krumlov 1|Jižní 1749|LudmilaKubankova@teleworm.us|725 427 404
+30|Lenka|Bartoňová|žena|11/9/2002|Česká republika|Liberecký kraj|Stará Paka|Jana Nerudy 1609|LenkaBartonova@fleckens.hu|485 562 474
+31|Kateřina|Sikorová|žena|9/7/2005|Česká republika|Plzenský kraj|Preštice|Třebčická 1946|KaterinaSikorova@einrot.com|732 917 056
+32|Lukáš|Novák|muž|12/17/2004|Česká republika|Kraj Vysocina|Radostín nad Oslavou|Generála Jaroše 1972|LukasNovak@cuvox.de|726 497 396
+33|Janusz|Soukup|muž|6/14/2004|Česká republika|Jihoceský kraj|Chyšky|Za humny 956|JanuszSoukup@rhyta.com|386 438 680
+34|Robert|Šafář|muž|3/25/2003|Česká republika|Královéhradecký kraj|Dvur Králové nad Labem|Pod Strání 143|RobertSafar@teleworm.us|497 391 525
+35|Jan|Novák|muž|4/1/2005|Česká republika|Jihoceský kraj|Strmilov|Hradní 1659|JanNovak@teleworm.us|389 405 029
+36|Jiří|Mach|muž|9/29/2003|Česká republika|Jihomoravský kraj|Hustopece u Brna|Spodní Pustá 1350|JiriMach@gustr.com|511 610 880
+37|Zuzana|Malá|žena|10/25/2003|Česká republika|Jihoceský kraj|Hluboká nad Vltavou|U Parku 1754|ZuzanaMala@jourrapide.com|399 736 720
+38|Ivan|Kučera|muž|10/19/2004|Česká republika|Stredoceský kraj|Semcice|Jiráskova 1503|IvanKucera@cuvox.de|721 554 222
+39|Ema|Mikolášková|žena|3/2/2004|Česká republika|Ústecký kraj|Chomutov 1|Sídliště Za Chlumem 855|EmaMikolaskova@jourrapide.com|726 456 055
+40|Adéla|Nejedlá|žena|6/6/2005|Česká republika|Stredoceský kraj|Cistá u Rakovníka|Malá Strana 279|AdelaNejedla@einrot.com|725 516 684
+41|Josef|Smrček|muž|4/23/2004|Česká republika|Pardubický kraj|Nasavrky|Jiráskova 1780|JosefSmrcek@jourrapide.com|606 456 495
+42|Alena|Tomášková|žena|9/27/2005|Česká republika|Jihomoravský kraj|Skalice nad Svitavou|Absolonova 1713|AlenaTomaskova@rhyta.com|539 912 670
+43|Pavlína|Vokáčová|žena|10/3/2002|Česká republika|Zlínský kraj|Luhacovice|Hřbitovní 789|PavlinaVokacova@teleworm.us|779 968 748
+44|Hana|Valešová|žena|2/8/2005|Česká republika|Stredoceský kraj|Cernuc|Družstevní 331|HanaValesova@einrot.com|726 517 651
+45|Markéta|Matoušková|žena|6/10/2005|Česká republika|Moravskoslezský kraj|Petrvald u Nového Jicína|Dukelská 969|MarketaMatouskova@superrito.com|590 572 370
+46|Ladislav|Vosyka|muž|11/13/2004|Česká republika|Královéhradecký kraj|Dvur Králové nad Labem|Pod Strání 808|LadislavVosyka@dayrep.com|602 697 657
+47|Rudolf|Kubeš|muž|4/17/2004|Česká republika|Zlínský kraj|Prakšice|Bedřicha Smetany 400|RudolfKubes@fleckens.hu|608 098 182
+48|Šárka|Kováříková|žena|7/11/2005|Česká republika|Hlavní mesto Praha|Praha 012|Osnická 1071|SarkaKovarikova@jourrapide.com|259 374 149
+49|Veronika|Štěpánová|žena|12/17/2002|Česká republika|Jihomoravský kraj|Velké Opatovice|Štefanikova 1300|VeronikaStepanova@fleckens.hu|776 684 370
+50|Tomáš|Šašek|muž|7/9/2005|Česká republika|Jihomoravský kraj|Diváky|Úzká 1203|TomasSasek@einrot.com|549 399 986
+50|Ferero|Bonboniery|muž|9/17/1993|Česká republika|Kraj Vysočina|Havlíčkův Brod|Troubov 51|fbonbonieri@seznam.cz|666 420 069
