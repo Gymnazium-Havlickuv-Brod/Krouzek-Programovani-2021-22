@@ -18,7 +18,7 @@ Pokud chcete napsat zápornou hodnotu, tak ji vždy dejte na začátek závorky 
 |	(-9+6)		        |
 |	(6+(-9))	        |
 -------------------------
-
+!!! Pro počítání desetinných čísel použij čárku (,) nebo tečku (.) (Př. 5,32 nebo 5.32)
 !!! Neumí to počítat neznámé nebo-li písmenka (a,b,c,d,...)
 !!! Takový těžší příklad na vyzkoušení: 
 -------------------------------------------------------------------------------------------------

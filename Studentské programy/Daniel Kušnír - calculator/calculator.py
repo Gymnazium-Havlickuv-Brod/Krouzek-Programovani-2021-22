@@ -1,6 +1,6 @@
 import re
 
-#num = "(9*5)-7**2+(4**3-16)" #((-3**9+65*(35*(-2)+3)/((-6*9)*(-3*7))+652)/2034//2)**2/35
+#num = "((-3**9+65*(35*(-2)+3)/((-6*9)*(-3*7))+652)/2034//2)**2/35 - (9*5)-7**2+(4**3-16) + 0,5" #((-3**9+65*(35*(-2)+3)/((-6*9)*(-3*7))+652)/2034//2)**2/35
 num = input("Dej mi nějaký příklad :3  -->    ")
 print("\n")
 num_list = []
@@ -40,6 +40,7 @@ def math_problem_check():
     global string_detekt
 
     numbers_in_row = 0
+    decimal_number = 0
     negative_number = 0
     same_operators = 0
     string_detekt = re.search("[a-žA-Ž]", num)
@@ -65,21 +66,23 @@ def math_problem_check():
                         num_list[len(num_list)-1] += num[i]
                 elif num_detekt == None and num[i] != '*' and num[i] != '/':
                 #print(num_detekt)
-                    numbers_in_row = 0
-                    num_list.append(num[i])
-
-                    if num_list[0] == "-" and len(num_list) == 1:
-                        negative_number = 2 
-                    if num[i] == "(":
-                        negative_number = 1
-                    elif num[i] != "-":
-                         negative_number = 0
-                    if num_list[len(num_list) - 2] == "(" and num[i] == "-":
-                        negative_number = 2 
-                    elif num_list[len(num_list) - 2] == "(" and num[i] == "(":
-                        negative_number = 1
-                    elif num[i] != "-":
-                        negative_number = 0
+                    if num[i] == "," or num[i] == "." and numbers_in_row >= 1:
+                        num_list[len(num_list)-1] += "."
+                    else:
+                        num_list.append(num[i])
+                        numbers_in_row = 0
+                        if num_list[0] == "-" and len(num_list) == 1:
+                            negative_number = 2 
+                        if num[i] == "(":
+                            negative_number = 1
+                        elif num[i] != "-":
+                             negative_number = 0
+                        if num_list[len(num_list) - 2] == "(" and num[i] == "-":
+                            negative_number = 2 
+                        elif num_list[len(num_list) - 2] == "(" and num[i] == "(":
+                            negative_number = 1
+                        elif num[i] != "-":
+                            negative_number = 0
                 elif num_list[len(num_list)-1] == num[i] and same_operators == 1 and num_detekt == None:
                     num_list[len(num_list)-1] += num[i]
                     same_operators = 0
