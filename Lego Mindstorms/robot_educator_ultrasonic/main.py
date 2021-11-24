@@ -120,6 +120,8 @@ while True:
         c = 0
 
 
+    if 
+
 
     # if not (lever_motor.angle() > -330 and lever_motor.angle() < -128):
     #     continue
